@@ -1,0 +1,1 @@
+# Elasticsearch Index Count Comparison
